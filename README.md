@@ -3,3 +3,5 @@ This is a site about 9 worlds from Greek and Norse mythology, and it also contai
 **IMPORTANT: Since the site is not yet fully adapted, if you have a laptop with a screen diagonal of 14 to 17 inches, please reduce the scale on the site to 80%.**
 
 Thank you for your visit!
+
+https://mrshark09.github.io/
