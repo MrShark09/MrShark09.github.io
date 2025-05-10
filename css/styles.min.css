@@ -1,6 +1,6 @@
 @font-face {
   font-family: Cinzel;
-  src: url(/assets/fonts/Cinzel-b731d636319cebd9e8425d675ed5ee45.woff2?h=ad631652f8de9f34b79c91c4bd5861e2)
+  src: url(/fonts/Cinzel-b731d636319cebd9e8425d675ed5ee45.woff2?h=ad631652f8de9f34b79c91c4bd5861e2)
     format("woff2");
   font-weight: 400;
   font-style: normal;
@@ -11,7 +11,7 @@
 }
 @font-face {
   font-family: Cinzel;
-  src: url(/assets/fonts/Cinzel-a0215faf1451543a63c969fe3075ec00.woff2?h=ad631652f8de9f34b79c91c4bd5861e2)
+  src: url(/fonts/Cinzel-a0215faf1451543a63c969fe3075ec00.woff2?h=ad631652f8de9f34b79c91c4bd5861e2)
     format("woff2");
   font-weight: 400;
   font-style: normal;
@@ -22,7 +22,7 @@
 }
 @font-face {
   font-family: "Cinzel Decorative";
-  src: url(/assets/fonts/Cinzel%20Decorative-ec81d832b3575e1eddd76fc8d2e6ecb3.woff2?h=e027e2ba6a40b810ac96b808a7b70331)
+  src: url(/fonts/Cinzel%20Decorative-ec81d832b3575e1eddd76fc8d2e6ecb3.woff2?h=e027e2ba6a40b810ac96b808a7b70331)
     format("woff2");
   font-weight: 400;
   font-style: normal;
@@ -33,7 +33,7 @@
 }
 @font-face {
   font-family: "Cinzel Decorative";
-  src: url(/assets/fonts/Cinzel%20Decorative-5415bb0ecd6d05ccb11654590a495410.woff2?h=e027e2ba6a40b810ac96b808a7b70331)
+  src: url(/fonts/Cinzel%20Decorative-5415bb0ecd6d05ccb11654590a495410.woff2?h=e027e2ba6a40b810ac96b808a7b70331)
     format("woff2");
   font-weight: 400;
   font-style: normal;
@@ -44,7 +44,7 @@
 }
 @font-face {
   font-family: "EB Garamond";
-  src: url(/assets/fonts/EB%20Garamond-136955aa8181655814008da8f223e724.woff2?h=d7945e92ad439156cadb160ff9db191c)
+  src: url(/fonts/EB%20Garamond-136955aa8181655814008da8f223e724.woff2?h=d7945e92ad439156cadb160ff9db191c)
     format("woff2");
   font-weight: 400;
   font-style: normal;
@@ -54,7 +54,7 @@
 }
 @font-face {
   font-family: "EB Garamond";
-  src: url(/assets/fonts/EB%20Garamond-1c6fa88c837302704d200c2fa8032bd2.woff2?h=d7945e92ad439156cadb160ff9db191c)
+  src: url(/fonts/EB%20Garamond-1c6fa88c837302704d200c2fa8032bd2.woff2?h=d7945e92ad439156cadb160ff9db191c)
     format("woff2");
   font-weight: 400;
   font-style: normal;
@@ -63,7 +63,7 @@
 }
 @font-face {
   font-family: "EB Garamond";
-  src: url(/assets/fonts/EB%20Garamond-37ccef9f67defa0ec0ab1fe7e949728f.woff2?h=d7945e92ad439156cadb160ff9db191c)
+  src: url(/fonts/EB%20Garamond-37ccef9f67defa0ec0ab1fe7e949728f.woff2?h=d7945e92ad439156cadb160ff9db191c)
     format("woff2");
   font-weight: 400;
   font-style: normal;
@@ -72,7 +72,7 @@
 }
 @font-face {
   font-family: "EB Garamond";
-  src: url(/assets/fonts/EB%20Garamond-408f6677cd8fa18538d39cc5a76b5d73.woff2?h=d7945e92ad439156cadb160ff9db191c)
+  src: url(/fonts/EB%20Garamond-408f6677cd8fa18538d39cc5a76b5d73.woff2?h=d7945e92ad439156cadb160ff9db191c)
     format("woff2");
   font-weight: 400;
   font-style: normal;
@@ -82,7 +82,7 @@
 }
 @font-face {
   font-family: "EB Garamond";
-  src: url(/assets/fonts/EB%20Garamond-c6f4ee662a7980468bf6edea399d0e45.woff2?h=d7945e92ad439156cadb160ff9db191c)
+  src: url(/fonts/EB%20Garamond-c6f4ee662a7980468bf6edea399d0e45.woff2?h=d7945e92ad439156cadb160ff9db191c)
     format("woff2");
   font-weight: 400;
   font-style: normal;
@@ -93,7 +93,7 @@
 }
 @font-face {
   font-family: "EB Garamond";
-  src: url(/assets/fonts/EB%20Garamond-b51e5e436cdafa27af8f6c0ef5321ec8.woff2?h=d7945e92ad439156cadb160ff9db191c)
+  src: url(/fonts/EB%20Garamond-b51e5e436cdafa27af8f6c0ef5321ec8.woff2?h=d7945e92ad439156cadb160ff9db191c)
     format("woff2");
   font-weight: 400;
   font-style: normal;
@@ -104,7 +104,7 @@
 }
 @font-face {
   font-family: "EB Garamond";
-  src: url(/assets/fonts/EB%20Garamond-019497f0034c1917b6f0e993df7690bc.woff2?h=d7945e92ad439156cadb160ff9db191c)
+  src: url(/fonts/EB%20Garamond-019497f0034c1917b6f0e993df7690bc.woff2?h=d7945e92ad439156cadb160ff9db191c)
     format("woff2");
   font-weight: 400;
   font-style: normal;
